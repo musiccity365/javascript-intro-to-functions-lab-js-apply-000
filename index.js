@@ -26,6 +26,4 @@ function sayHiToGrandma(string) {
   else(mixedCase.toLowerCase() === mixedCase){
     return false
   } // false
- 
-  return string.toLowerCase()
 }

@@ -22,8 +22,8 @@ function sayHiToGrandma(string) {
   }// true
   
  
-if(mixedCase.toLowerCase() === mixedCase){
-  
-} // false
+  if(mixedCase.toLowerCase() === mixedCase){
+    
+  } // false
 
 }
